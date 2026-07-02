@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" width="100" height="100" xmlns="http://www.w3.org/2000/svg"><title>ICADEP-XXI</title><defs>
+    <style>
+      .bg-white { fill: #FFFFFF; }
+      .border-dark { fill: #0B2533; }
+      .orange-sec { fill: #E05316; }
+      .blue-dark { fill: #073B4C; }
+      .teal-sec { fill: #118AB2; }
+      .icon-white { fill: #FFFFFF; }
+      .text-orange { fill: #E05316; font-family: 'Georgia', serif; font-weight: bold; }
+      .text-teal { fill: #118AB2; font-family: 'Georgia', serif; font-weight: bold; }
+    </style>
+  </defs><style>
+      .bg-white { fill: #FFFFFF; }
+      .border-dark { fill: #0B2533; }
+      .orange-sec { fill: #E05316; }
+      .blue-dark { fill: #073B4C; }
+      .teal-sec { fill: #118AB2; }
+      .icon-white { fill: #FFFFFF; }
+      .text-orange { fill: #E05316; font-family: 'Georgia', serif; font-weight: bold; }
+      .text-teal { fill: #118AB2; font-family: 'Georgia', serif; font-weight: bold; }
+    </style><circle cx="50" cy="50" r="50" fill="#FFFFFF"/><g id="logo" transform="translate(1.8719999999999999, 1.8719999999999999) scale(0.188)"><circle cx="256" cy="256" r="250" class="bg-white"/><path d="M120,110 C200,90 312,90 392,110 C392,230 340,340 256,410 C172,340 120,230 120,110 Z" class="border-dark"/><path d="M126,116 C202,97 310,97 386,116 C386,232 335,338 256,404 C177,338 126,232 126,116 Z" class="bg-white"/><path d="M253,115 L130,119 C130,175 145,225 170,260 L253,260 Z" class="orange-sec"/><path d="M259,115 L382,119 C382,175 367,225 342,260 L259,260 Z" class="bg-white"/><path d="M172,266 L253,266 L253,400 C215,365 188,318 172,266 Z" class="blue-dark"/><path d="M340,266 L259,266 L259,400 C297,365 324,318 340,266 Z" class="teal-sec"/><path d="M175,210 L210,145 L220,150 L185,215 Z M200,195 L215,205" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/><path d="M165,225 C165,200 185,190 195,190" fill="none" stroke="#FFFFFF" stroke-width="5"/><rect x="160" y="225" width="45" height="8" rx="2" class="icon-white"/><rect x="275" y="140" width="90" height="65" rx="4" fill="none" stroke="#E05316" stroke-width="5"/><path d="M305,205 L295,225 L345,225 L335,205 Z" class="orange-sec"/><circle cx="320" cy="172" r="14" fill="none" stroke="#E05316" stroke-width="2"/><ellipse cx="320" cy="172" rx="24" ry="8" fill="none" stroke="#E05316" stroke-width="1.5" transform="rotate(30 320 172)"/><ellipse cx="320" cy="172" rx="24" ry="8" fill="none" stroke="#E05316" stroke-width="1.5" transform="rotate(-30 320 172)"/><path d="M200,285 C185,285 180,295 185,305 C180,310 180,325 190,330 C185,340 195,350 205,345 C210,352 225,350 225,340 C235,340 240,325 235,315 C240,305 235,290 225,285 C220,280 205,280 200,285 Z" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round"/><path d="M213,283 L213,348 M200,300 C205,305 210,305 213,305 M200,325 C205,320 210,322 213,325 M225,300 C220,305 215,305 213,305" fill="none" stroke="#FFFFFF" stroke-width="3"/><path d="M270,290 C280,285 295,285 305,290 L325,280 L325,335 L305,345 C295,340 280,340 270,345 Z" fill="none" stroke="#FFFFFF" stroke-width="4"/><path d="M270,290 C280,285 295,285 305,290 M270,302 C280,297 295,297 305,302 M270,314 C280,309 295,309 305,314 M270,326 C280,321 295,321 305,326" fill="none" stroke="#FFFFFF" stroke-width="2.5"/><path d="M270,290 L270,345" stroke="#FFFFFF" stroke-width="4"/><text x="120" y="465" class="text-orange" font-size="42">ICADEP</text><text x="302" y="465" class="text-teal" font-size="42">-XXI</text></g></svg>
